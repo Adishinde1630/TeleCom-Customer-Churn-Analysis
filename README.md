@@ -19,5 +19,3 @@ git commit -m "Add TelCom Power BI template and dashboard link"
 # git push -u origin main
 ```
 
-What next
-- Tell me whether you want me to push directly and provide the repo URL or a PAT (with consent), or tell me to stop here and I will leave the prepared files in the workspace.
