@@ -1,6 +1,5 @@
 Telecom Power BI Report
 
-This repo contains the Power BI report template file and a link to the published dashboard.
 
 Files
 - [TelCom.pbit](TelCom.pbit) — Power BI template included in this workspace.
